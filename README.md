@@ -7,4 +7,4 @@ Install the following packages using pip install:
 * requests
 
 **HOW TO RUN**  
-Run **src\Main.java** and follow the input prompts to run the program.
+Run **src\main.py** and follow the input prompts to run the program.
