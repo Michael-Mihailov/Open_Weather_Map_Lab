@@ -1,10 +1,10 @@
-This project is an assignment for my Object Oriented Programming course at Lewis University.
+This project is an assignment for my Object Oriented Programming course at Lewis University.  
 
-**Setup:**
-Create a **.env** in the root directory
+**Setup:**  
+Create a **.env** in the root directory.  
 Install the following packages using pip install:
 * python-dotenv
 * requests
 
-**HOW TO RUN**
+**HOW TO RUN**  
 Run **src\Main.java** and follow the input prompts to run the program.
