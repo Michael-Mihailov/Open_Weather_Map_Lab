@@ -1,7 +1,8 @@
 This project is an assignment for my Object Oriented Programming course at Lewis University.  
 
 **Setup:**  
-Create a **.env** in the root directory.  
+Create a **.env** in the root directory:  
+* set **OWM_API_KEY=***Your_API_Key_Here*  
 Install the following packages using pip install:
 * python-dotenv
 * requests
