@@ -1,6 +1,6 @@
 This project is an assignment for my Object Oriented Programming course at Lewis University.
 
-**Setup**
+**Setup:**
 Create a **.env** in the root directory
 Install the following packages using pip install:
 * python-dotenv
